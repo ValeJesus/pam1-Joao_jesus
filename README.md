@@ -85,6 +85,10 @@ npx expo export
 
 ----------
 
+**erro Deprecated solução**
+
+So dar expo start
+
 ### 🌐 Links úteis
 
 -   [Documentação oficial do Expo](https://docs.expo.dev/)
